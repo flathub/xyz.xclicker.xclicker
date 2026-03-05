@@ -36,5 +36,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/robiot/xclicker.git
-        depth: 1
-        tag: v1.5.0
+        # depth: 1
+        # tag: v1.5.1
+        # The latest commit from the repository, to remove copyrighted content
+        commit: 45dbe5b535b54e40c4669b009955cbb6bf54785d
